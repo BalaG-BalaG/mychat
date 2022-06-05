@@ -1,1 +1,1 @@
-web: gunicorn webrtc.wsgi
+web: gunicorn mychat.wsgi
